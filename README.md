@@ -67,4 +67,4 @@ npm run dev
 - PUT /usuario - Atualiza os dados do usuário logado
 
 ## :globe_with_meridians: Diagrama de Entidade-Relacionamento (DER)
-
+![DER bancoDigital Readme](https://github.com/birasants/Banco_Digital/assets/113365850/f846a408-17d7-4a2c-b478-576e0b9d576e)
